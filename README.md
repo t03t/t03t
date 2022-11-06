@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t03t
 - 👀 I’m interested in everything tech.
-- 🌱 I’m currently learning Haskell, Rails, Java, C++, C#.
+- 🌱 I’m currently learning Haskell, Java, C++.
 - 💞️ I’m looking to collaborate on everything.
 
 <!---
