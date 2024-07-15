@@ -39,7 +39,7 @@ When I'm not coding, you can find me immersed in a good book. Some of my favorit
 
 Feel free to reach out if you’d like to collaborate on a project or just want to chat about tech, books, or anything in between!
 
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/skhadijatirmazi) | [Email](mailto:itstirm@gmail.com)
+📫 **Contact:** [LinkedIn](linkto:https://www.linkedin.com/in/skhadijatirmazi) | [Email](mailto:itstirm@gmail.com)
 
 <!---
 t03t/t03t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
