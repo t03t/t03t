@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **S Khadija Tirmazi**, a passionate and dedicated Full Stack Developer with experience in creating robust, accessible websites and mobile applications. My journey in software development has taken me through various projects, leveraging technologies such as Next.js, Node.js, Ruby on Rails, and Flask. I have a background in working as a Software Engineer in Silicon Valley and am committed to continuously learning and evolving in the ever-changing tech landscape.
 
-When I'm not coding, you can find me immersed in a good book. Some of my favorite authors include Mark Twain, Fyodor Dostoevsky, Jane Austen, William Faulkner, John Steinbeck, and Toni Morrison. Their works inspire me and offer a refreshing perspective that often fuels my creativity in development.
+When I'm not coding, you can find me immersed in a good book. Some of my favorite authors include Jane Austen, Mark Twain, and Toni Morrison. Their works inspire me and offer a refreshing perspective that often fuels my creativity in development.
 
 ## 🛠 Skills and Technologies
 
